@@ -4,7 +4,7 @@ const HistoryPage = () => {
 			<h1 className="text-xl font-bold">Histroy</h1>
 			<p>Your search history</p>
 		</div>
-	);
+	);//hello
 };
 
 export default HistoryPage;
